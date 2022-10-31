@@ -1,0 +1,14 @@
+{
+    "status": "OK",
+    "message": "data berhasil didapatkan",
+    "question_role": [
+        {
+            "id": 1,
+            "name": "iOS Engineer"
+        },
+        {
+            "id": 2,
+            "name": "Android Engineer"
+        }
+    ]
+}

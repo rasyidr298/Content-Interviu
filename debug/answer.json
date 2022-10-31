@@ -1,0 +1,60 @@
+{
+    "status": "OK",
+    "message": "data berhasil didapatkan",
+    "data": [
+        {
+            "id": 1,
+            "id_question": 1,
+            "purpose": "ini purpose id 1",
+            "tips": "ini tips id 1",
+            "desc": "ini desc id 1",
+            "assets": ["assets1", "assets2"],
+            "video": "ini video"
+        },
+        {
+            "id": 2,
+            "id_question": 2,
+            "purpose": "ini purpose id 2",
+            "tips": "ini tips id 2",
+            "desc": "ini desc id 2",
+            "assets": ["assets1", "assets2"],
+            "video": "ini video"
+        },
+        {
+            "id": 3,
+            "id_question": 3,
+            "purpose": "ini purpose id 3",
+            "tips": "ini tips id 3",
+            "desc": "ini desc id 3",
+            "assets": ["assets1", "assets2"],
+            "video": "ini video"
+        },
+        {
+            "id": 4,
+            "id_question": 4,
+            "purpose": "ini purpose id 4",
+            "tips": "ini tips id 4",
+            "desc": "ini desc id 4",
+            "assets": ["assets1", "assets2"],
+            "video": "ini video"
+        },
+        {
+            "id": 5,
+            "id_question": 5,
+            "purpose": "ini purpose id 5",
+            "tips": "ini tips id 5",
+            "desc": "ini desc id 5",
+            "assets": ["assets1", "assets2"],
+            "video": "ini video"
+        },
+        {
+            "id": 6,
+            "id_question": 6,
+            "purpose": "ini purpose id 5",
+            "tips": "ini tips id 5",
+            "desc": "ini desc",
+            "assets": ["assets1", "assets2"],
+            "video": "ini video"
+        }
+    ]
+}

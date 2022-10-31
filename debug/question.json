@@ -1,0 +1,48 @@
+{
+    "status": "OK",
+    "message": "data berhasil didapatkan",
+    "data": [
+        {
+            "id": 1,
+            "name": "hr",
+            "category": "Perkenalan",
+            "question": "ini pertanyaan hr cat perkenalan",
+            "time": 30
+        },
+        {
+            "id": 2,
+            "name": "hr",
+            "category": "Perusahaan",
+            "question": "ini pertanyaan hr cat Perusahaan",
+            "time": 30
+        },
+        {
+            "id": 3,
+            "name": "hr",
+            "category": "Perilaku",
+            "question": "ini pertanyaan hr cat Perilaku",
+            "time": 30
+        },
+        {
+            "id": 4,
+            "name": "tek",
+            "category": "Perkenalan",
+            "question": "ini pertanyaan tek cat perkenalan",
+            "time": 30
+        },
+        {
+            "id": 5,
+            "name": "tek",
+            "category": "Perusahaan",
+            "question": "ini pertanyaan tek cat Perusahaan",
+            "time": 30
+        },
+        {
+            "id": 6,
+            "name": "tek",
+            "category": "Perilaku",
+            "question": "ini pertanyaan tek cat Perilaku",
+            "time": 30
+        }
+    ]
+}
