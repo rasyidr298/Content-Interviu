@@ -1,14 +1,24 @@
 {
     "status": "OK",
     "message": "data berhasil didapatkan",
-    "question_role": [
+    "data": [
         {
             "id": 1,
-            "name": "iOS Engineer"
+            "name": "iOS Engineer",
+            "is_available": true,
+            "path": "ios_eng"
         },
         {
             "id": 2,
-            "name": "Android Engineer"
+            "name": "Android Engineer",
+            "is_available": true,
+            "path": "android_eng"
+        },
+        {
+            "id": 3,
+            "name": "Backend Engineer",
+            "is_available": false,
+            "path": "backend_eng"
         }
     ]
 }
