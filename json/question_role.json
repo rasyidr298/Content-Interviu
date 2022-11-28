@@ -10,13 +10,13 @@
         },
         {
             "id": 2,
-            "name": "Android Engineer",
-            "is_available": true,
+            "name": "UI Designer - Coming soon",
+            "is_available": false,
             "path": "android_eng"
         },
         {
             "id": 3,
-            "name": "Backend Engineer",
+            "name": "Project Manager - Coming soon",
             "is_available": false,
             "path": "backend_eng"
         }
