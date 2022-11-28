@@ -10,15 +10,9 @@
         },
         {
             "id": 2,
-            "name": "UI Designer - Coming soon",
+            "name": "Coming soon",
             "is_available": false,
             "path": "android_eng"
-        },
-        {
-            "id": 3,
-            "name": "Project Manager - Coming soon",
-            "is_available": false,
-            "path": "backend_eng"
         }
     ]
 }
