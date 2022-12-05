@@ -9,7 +9,7 @@
             "time": 30,
             "purpose": "<p><span style=\"color: #090a0a;\"><strong>Tujuan</strong></span></p><p><span style=\"color: #6c7072;\">Recruiter ingin mengetahui alasan yang kamu ketahui terkait penggunaan design pattern</span></p><p><span style=\"color: #090a0a;\"><strong>Deskripsi</strong></span></p><p><span style=\"color: #6c7072;\">Design pattern merupakan solusi pada suatu masalah yang digunakan dalam membuat arsitektur aplikasi.</span></p><p><span style=\"color: #6c7072;\">Design Pattern sejenis template untuk memudahkan dalam coding dan dapat pattern ini dapat digunakan berulang.</span></p><p><span style=\"color: #6c7072;\">Contoh: MVC (Model-View-Controller), MVVM (Model-View-View-Model), Facade</span></p>",
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">Disarankan kamu perlu bertanya minimal 1 pertanyaan untuk mengetahui antusiasme kamu terhadap posisi dan perusahaan ini</span></li><li><span style=\"color: #6c7072;\">Siapkan daftar pertanyaan sebelum interview dengan meriset perusahaan terlebih dahulu. Apa bila ada pertanyaan, bisa dicatat untuk ditanyakan</span></li><li><span style=\"color: #6c7072;\">Sebisa mungkin jangan bertanya apa yang sudah dijelaskan sebelumnya</span></li></ul>",
-            "assets": ["assets/img/iOS-Teknikal1.png", "assets/img/dummy2.jpeg"],
+            "assets": ["assets/img/iOS_Teknikal1.png", "assets/img/dummy2.jpeg"],
             "video_content": "assets/video/content/iOS_1_DesignPattern.mp4",
             "video_hr": "assets/video/question/iOS_1_DesignPattern.mp4",
             "gif": "assets/gif/iOS_1-6_Tama.gif"
