@@ -23,7 +23,7 @@
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">1. Kamu bisa menyampaikan mengenai pengertian, bentuk/jenis, dan tujuan sebagai penyampaian bentuk pemahaman kamu terhadap MVVM</span></li><li><span style=\"color: #6c7072;\">2. Apabila kamu memiliki pengalaman menggunakan MVVM, kamu bisa menceritakan pengalaman tersebut. Apabila belum pernah menggunakan, kamu bisa ceritakan contoh dari MVVM</span></li></ul>",
             "assets": ["assets/img/iOS_Teknikal2.png", "assets/img/dummy2.jpeg"],
             "video_content": "assets/video/content/iOS_2_MVVM.mp4",
-            "video_hr": "assets/video/question/iOS_2_DesignPattern.mp4",
+            "video_hr": "assets/video/question/dummy.mp4",
             "gif": "assets/gif/iOS_1-6_Tama.gif"
         },
         {
