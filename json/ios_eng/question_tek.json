@@ -10,7 +10,7 @@
             "purpose": "<p><span style=\"color: #090a0a;\"><strong>Tujuan</strong></span></p><p><span style=\"color: #6c7072;\">Recruiter ingin mengetahui alasan yang kamu ketahui terkait penggunaan design pattern</span></p><p><span style=\"color: #090a0a;\"><strong>Deskripsi</strong></span></p><p><span style=\"color: #6c7072;\">Design pattern merupakan solusi pada suatu masalah yang digunakan dalam membuat arsitektur aplikasi.</span></p><p><span style=\"color: #6c7072;\">Design Pattern sejenis template untuk memudahkan dalam coding dan dapat pattern ini dapat digunakan berulang.</span></p><p><span style=\"color: #6c7072;\">Contoh: MVC (Model-View-Controller), MVVM (Model-View-View-Model), Facade</span></p>",
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">Disarankan kamu perlu bertanya minimal 1 pertanyaan untuk mengetahui antusiasme kamu terhadap posisi dan perusahaan ini</span></li><li><span style=\"color: #6c7072;\">Siapkan daftar pertanyaan sebelum interview dengan meriset perusahaan terlebih dahulu. Apa bila ada pertanyaan, bisa dicatat untuk ditanyakan</span></li><li><span style=\"color: #6c7072;\">Sebisa mungkin jangan bertanya apa yang sudah dijelaskan sebelumnya</span></li></ul>",
             "assets": ["assets/img/iOS-Teknikal1.png", "assets/img/dummy2.jpeg"],
-            "video_content": "assets/video/content/iOS_11_ObserveObject.mp4",
+            "video_content": "assets/video/content/iOS_1_DesignPattern.mp4",
             "video_hr": "assets/video/question/iOS_1_DesignPattern.mp4",
             "gif": "assets/gif/iOS_1-6_Tama.gif"
         },
@@ -22,7 +22,7 @@
             "purpose": "<p><span style=\"color: #090a0a;\"><strong>Tujuan</strong></span></p><p><span style=\"color: #6c7072;\">Recruiter ingin mengetahui seberapa kamu memahami dan menguasai MVVM</span></p><p><span style=\"color: #090a0a;\"><strong>Deskripsi</strong></span></p><p><span style=\"color: #6c7072;\">MVVM (Model-View-ViewModel) design pattern yang berguna untuk kita membuat apps agar mudah di maintain, extend, dan unit test. Element dari MVVM </span></p><p><span style\"color: #6c7072;\">Model —Memiliki kode untuk business logic serta repositori. Tugas repositori untuk menjembatani request dari ViewModel ke sumber data lokal atau remote. </span></p><p><span style=\"color: #6c7072;\">View — Tidak ada business logic, hanya tampilan yang terhubung dengan user (XML). Aksi user dikirim ke view model tapi tidak akan langsung mendapatkan respons. Untuk mendapatkan responsenya, View akan terima dari ViewModel.</span></p><p><span style=\"color: #6c7072;\">ViewModel —Mayoritas proses yang ada di UI terjadi di komponen ini. Ia tidak perlu tahu view mana yang memanggilnya. Ia hanya memberikan data yang dibutuhkan kepada siapapun yang menghubunginya via observable.</span></p>",
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">1. Kamu bisa menyampaikan mengenai pengertian, bentuk/jenis, dan tujuan sebagai penyampaian bentuk pemahaman kamu terhadap MVVM</span></li><li><span style=\"color: #6c7072;\">2. Apabila kamu memiliki pengalaman menggunakan MVVM, kamu bisa menceritakan pengalaman tersebut. Apabila belum pernah menggunakan, kamu bisa ceritakan contoh dari MVVM</span></li></ul>",
             "assets": ["assets/img/iOS_Teknikal2.jpeg", "assets/img/dummy2.jpeg"],
-            "video_content": "assets/video/content/dummy.mp4",
+            "video_content": "assets/video/content/iOS_2_MVVM.mp4",
             "video_hr": "assets/video/question/iOS_2_DesignPattern.mp4",
             "gif": "assets/gif/iOS_1-6_Tama.gif"
         },
@@ -34,7 +34,7 @@
             "purpose": "<p><span style=\"color: #090a0a;\"><strong>Tujuan</strong></span></p><p><span style=\"color: #6c7072;\">Recruiter ingin mengetahui seberapa kamu memahami dan menguasai MVC</span></p><p><span style=\"color: #090a0a;\"><strong>Deskripsi</strong></span></p><p><span style=\"color: #6c7072;\">MVC (Model-View-Controller) adalah design pattern yang paling umum untuk mengembangkan aplikasi iOS.MVC terdiri dari</span></p><p><span style=\"color: #6c7072;\">Model- Menentukan jenis data dan business logic. Bagaimana mengambil dan manipulasi data, berkomunikasi dengan controller, berinteraksi dengan database, dan sesekali mengupdate view.  </span></p><p><span style=\"color: #6c7072;\">View- Merupakan hasil yang dilihat.</span></p><p><span style=\"color: #6c7072;\">Controller- Adalah Activity/Fragment. Ia yang berkomunikasi dengan View atau Model (bisa dalam bentuk database lokal seperti SQLite/Room maupun sistem dari luar melalui REST API)</span></p>",
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">1. Kamu bisa menyampaikan mengenai pengertian, bentuk/jenis, dan tujuan sebagai penyampaian bentuk pemahaman kamu terhadap MVC</span></li><li><span style=\"color: #6c7072;\">2. Apabila kamu memiliki pengalaman menggunakan MVC, kamu bisa menceritakan pengalaman tersebut. </span></li><li><span style=\"color: #6c7072;\">3. Apabila belum pernah menggunakan, kamu bisa ceritakan contoh dari MVVM</span></li></ul>",
             "assets": ["assets/img/iOS_Teknikal3.jpeg", "assets/img/dummy2.jpeg"],
-            "video_content": "assets/video/content/dummy.mp4",
+            "video_content": "assets/video/content/iOS_3_MVC.mp4",
             "video_hr": "assets/video/question/iOS_3_DesignPattern.mp4",
             "gif": "assets/gif/iOS_1-6_Tama.gif"
         },
@@ -46,7 +46,7 @@
             "purpose": "<p><span style=\"color: #090a0a;\"><strong>Tujuan</strong></span></p><p><span style=\"color: #6c7072;\">Recruiter ingin mengetahui pertimbangan atau alasan kapan penyimpanan menggunakan cloudkit dan core data</span></p><p><span style=\"color: #090a0a;\"><strong>Deskripsi</strong></span></p><p><span style=\"color: #6c7072;\">Cloudkit adalah framework yang menyediakan interface untuk memindahkan data antara aplikasi dan iCloud. Kita dapat menggunakan CloudKit untuk menyimpan data aplikasi yang sudah ada di cloud sehingga pengguna dapat mengaksesnya di beberapa perangkat.</span></p><p><span style=\"color: #6c7072;\">CoreData adalah framework untuk menyimpan data permanen aplikasi untuk penggunaan offline, untuk menyimpan data sementara, dan untuk menambahkan fungsionalitas undo ke aplikasi Anda di satu perangkat. </span></p>",
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">1. Kamu bisa memberikan definisi singkat antara CloudKit dan CoreData untuk memberikan konteks dari apa yang kamu ketahui</span></li><li><span style=\"color: #6c7072;\">2. Menjelaskan menggunakan list/point agar poin yang ingin disampaikan dapat dipahami. (Ex: Terdapat 3 hal yang menjadi perbedaan antara CloudKit dan CoreData:..,..) </span></li><li><span style=\"color: #6c7072;\">3. Kamu dapat menjelaskan berdasarkan pengalaman kamu karena recruiter akan melihat bahwa kamu memahaminya</span></li></ul>",
             "assets": ["assets/img/iOS_Teknikal4.jpeg", "assets/img/dummy2.jpeg"],
-            "video_content": "assets/video/content/dummy.mp4",
+            "video_content": "assets/video/content/iOS_4_CloudKit.mp4",
             "video_hr": "assets/video/question/iOS_4_Frameworks.mp4",
             "gif": "assets/gif/iOS_1-6_Tama.gif"
         },
@@ -58,7 +58,7 @@
             "purpose": "<p><span style=\"color: #090a0a;\"><strong>Tujuan</strong></span></p><p><span style=\"color: #6c7072;\">Recruiter ingin mengetahui pengalaman dan langkah detail yang kamu lakukan menggunakan core data</span></p><p><span style=\"color: #090a0a;\"><strong>Deskripsi</strong></span></p><p><span style=\"color: #6c7072;\">CoreData adalah framework untuk menyimpan data permanen aplikasi  untuk penggunaan offline, untuk menyimpan data sementara, dan untuk menambahkan fungsionalitas undo ke aplikasi Anda di satu perangkat.</span></p>            ",
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">1. Menggunakan STAR Method dalam menyampaikan contoh pengalaman kamu</span></li><li><span style=\"color: #6c7072;\">S = Situation (Menjelaskan situasi seperti apa yang ada pada saat itu)</span></li><li><span style=\"color: #6c7072;\">T = Task (Menjelaskan tantangan, goals, atau tugas yang dihadapi pada saat itu)</span></li><li><span style=\"color: #6c7072;\">A = Action (Menjelaskan aksi apa yang kamu pilih untuk menyelesaikan goals)</span></li><li><span style=\"color: #6c7072;\">R = Result (Menjelaskan hasil apa yang didapatkan dan pelajaran apa yang bisa diambil) </span></li><li><span style=\"color: #6c7072;\">2. Kamu bisa menceritakan pengalaman menggunakan core data yang berhubungan dengan industri yang kamu pilih</span></li><li><span style=\"color: #6c7072;\">3. Kamu bisa menjelaskan mengapa kamu menggunakan CoreData dibanding yang lain</span></li></ul>",
             "assets": ["assets/img/iOS_Teknikal5.jpeg", "assets/img/dummy2.jpeg"],
-            "video_content": "assets/video/content/dummy.mp4",
+            "video_content": "assets/video/content/iOS_5_ProjectKuliah.mp4",
             "video_hr": "assets/video/question/iOS_5_Frameworks.mp4",
             "gif": "assets/gif/iOS_1-6_Tama.gif"
         },
@@ -70,7 +70,7 @@
             "purpose": "<p><span style=\"color: #090a0a;\"><strong>Tujuan</strong></span></p><p><span style=\"color: #6c7072;\">Recruiter ingin mengetahui pemahaman dan alasan mengapa kamu menggunakan cocoa atau cocoa touch</span></p><p><span style=\"color: #090a0a;\"><strong>Deskripsi</strong></span></p><p><span style=\"color: #6c7072;\">Cocoa adalah lingkungan pengembangan aplikasi untuk Mac OS</span></p><p><span style=\"color: #6c7072;\">Cocoa Touch adalah lingkungan pengembangan aplikasi untuk iPhone dan iPad</span></p>",
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">1. Kamu dapat menjelaskan secara singkat mengenai cocoa dan cocoa touch untuk menyatakan apa yang kamu tau dan pahami</span></li><li><span style=\"color: #6c7072;\">2. Menjelaskan perbedaan dengan menyatakan poin yang ingin kamu sampaikan dan menjelaskan satu per satu untuk memudahkan recruiter dalam menerima informasi</span></li><li><span style=\"color: #6c7072;\">3. Kurangi menggunakan bahasa yang tidak umum atau ambigu karena akan menjadi keraguan dari kamu apakah benar memahaminya atau tidak</span></li></ul>",
             "assets": ["assets/img/iOS_Teknikal6.jpeg", "assets/img/dummy2.jpeg"],
-            "video_content": "assets/video/content/dummy.mp4",
+            "video_content": "assets/video/content/iOS_6_Cocoa.mp4",
             "video_hr": "assets/video/question/iOS_6_Frameworks.mp4",
             "gif": "assets/gif/iOS_1-6_Tama.gif"
         },
@@ -82,7 +82,7 @@
             "purpose": "<p><span style=\"color: #090a0a;\"><strong>Tujuan</strong></span></p><p><span style=\"color: #6c7072;\">Recruiter ingin mengetahui pengetahuan umum tentang local database yang ada di iOS.</span></p><p><span style=\"color: #090a0a;\"><strong>Deskripsi</strong></span></p><p><span style=\"color: #6c7072;\">Local data adalah suatu bentuk penyimpanan data yang disimpan ke dalam device</span></p>",
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">1. Kamu dapat menyebutkan beberapa local data yang ada di ios dan penggunaanya.</span></li><li><span style=\"color: #6c7072;\">2. Local data di ios terdapat:</span></li><li><span style=\"color: #6c7072;\">3. Kurangi menggunakan bahasa yang tidak umum atau ambigu karena akan menjadi keraguan dari kamu apakah benar memahaminya atau tidak</span></li><li><span style=\"color: #6c7072;\">- UserDefault untuk menyimpan data simple seperti string, bool </span></li><li><span style=\"color: #6c7072;\">- CoreData untuk menyimpan data collection dan bisa membuat reference dari tiap collection  </span></li><li><span style=\"color: #6c7072;\">- keychain untuk menyimpan data yang dienkripsi</span></li></ul>",
             "assets": ["assets/img/iOS_Teknikal7.jpeg", "assets/img/dummy2.jpeg"],
-            "video_content": "assets/video/content/dummy.mp4",
+            "video_content": "assets/video/content/iOS_7_LocalData.mp4",
             "video_hr": "assets/video/question/iOS_7_Frameworks.mp4",
             "gif": "assets/gif/iOS_7-12_Amanda.gif"
         },
@@ -94,7 +94,7 @@
             "purpose": "<p><span style=\"color: #090a0a;\"><strong>Tujuan</strong></span></p><p><span style=\"color: #6c7072;\">Recruiter ingin mengetahui pemahaman kamu terhadap SwiftUI terlihat melalui cara menjelaskan sesuatu dengan simpel</span></p><p><span style=\"color: #090a0a;\"><strong>Deskripsi</strong></span></p><p><span style=\"color: #6c7072;\">SwiftUI adalah cara baru untuk membangun antarmuka pengguna untuk aplikasi di platform Apple menggunakan bahasa swift</span></p>",
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">1. Menjelaskan secara singkat dan to the point</span></li><li><span style=\"color: #6c7072;\">2. Menggunakan analogi yang familiar untuk memberikan gambaran</span></li></ul>",
             "assets": ["assets/img/iOS_Teknikal8.jpeg", "assets/img/dummy2.jpeg"],
-            "video_content": "assets/video/content/dummy.mp4",
+            "video_content": "assets/video/content/iOS_8_SwiftUI.mp4",
             "video_hr": "assets/video/question/iOS_8_Languages.mp4",
             "gif": "assets/gif/iOS_7-12_Amanda.gif"
         },
@@ -106,7 +106,7 @@
             "purpose": "<p><span style=\"color: #090a0a;\"><strong>Tujuan</strong></span></p><p><span style=\"color: #6c7072;\">Recruiter ingin mengetahui dan memahami perbedaan Swift dan Objective-C</span></p><p><span style=\"color: #090a0a;\"><strong>Deskripsi</strong></span></p><p><span style=\"color: #6c7072;\">Swift adalah bahasa pemrograman yang kokoh dan intuitif yang diciptakan Apple untuk mengembangkan aplikasi untuk iOS, Mac, Apple TV, dan Apple Watch</span></p><p><span style=\"color: #6c7072;\">Objective-C adalah bahasa pemrograman berorientasi pada objek (object-oriented programming) serta memiliki kemampuan untuk melakukan runtime. </span></p>",
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">1. Kamu dapat memberikan informasi singkat mengenai definisi Swift dan Objective-C untuk memberikan konteks dari pemahaman yang kamu miliki</span></li><li><span style=\"color: #6c7072;\">2. Sampaikan dalam bentuk poin agar mudah dibaca dan diterima oleh recruiter</span></li></ul>",
             "assets": ["assets/img/iOS_Teknikal9.jpeg", "assets/img/dummy2.jpeg"],
-            "video_content": "assets/video/content/dummy.mp4",
+            "video_content": "assets/video/content/iOS_9_SwiftObjectiveC.mp4",
             "video_hr": "assets/video/question/iOS_9_Languages.mp4",
             "gif": "assets/gif/iOS_7-12_Amanda.gif"
         },
@@ -118,7 +118,7 @@
             "purpose": "<p><span style=\"color: #090a0a;\"><strong>Tujuan</strong></span></p><p><span style=\"color: #6c7072;\">Recruiter ingin mengetahui pemahaman user terhadap XIB dan storyboard</span></p><p><span style=\"color: #090a0a;\"><strong>Deskripsi</strong></span></p><p><span style=\"color: #6c7072;\">Storyboard adalah susunan dari gambar — gambar berurutan yang merangkai cerita, tujuannya berguna untuk memvisualisasikan sebuah cerita. Dan cara kerja Storyboard dalam xcode kurang lebih sama, dimana developer dapat memasukan view atau tampilan aplikasi sebanyak yang diinginkan, juga dapat menambahkan fitur atau widget seperti button, text, dengan tujuan membuat prototipe dari tampilan aplikasi yang diinginkan. Developer juga dapat menyambungkan tiap view satu sama lain sehingga dapat menjadi urutan yang diinginkan.</span></p><p><span style=\"color: #6c7072;\">Xib adalah singkatan dari xml interface builder. Xibs adalah cara lama untuk melakukan desain antarmuka iOS. Dengan xib, tampilan arbitrer/kustom apa pun dapat dirancang, yang dapat dilampirkan oleh pengembang ke pengontrol tampilan sesuai kebutuhan</span></p>            ",
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">1. Kamu dapat memberikan definisi mengenai XIB dan Storyboard lebih dulu untuk memberikan pernyataan di awal dan menyamakan persepsi serta konteks </span></li><li><span style=\"color: #6c7072;\">2. Sampaikan dalam bentuk poin agar mudah dibaca dan diterima oleh recruiter</span></li></ul>",
             "assets": ["assets/img/iOS_Teknikal10.jpeg", "assets/img/dummy2.jpeg"],
-            "video_content": "assets/video/content/dummy.mp4",
+            "video_content": "assets/video/content/iOS_10_XIB.mp4",
             "video_hr": "assets/video/iOS_10_Languages.mp4",
             "gif": "assets/gif/iOS_7-12_Amanda.gif"
         },
@@ -130,7 +130,7 @@
             "purpose": "<p><span style=\"color: #090a0a;\"><strong>Tujuan</strong></span></p><p><span style=\"color: #6c7072;\">Recruiter ingin mengetahui pemahaman kamu mengenai waktu penggunaan @StateObject dan @ObservedObject sehingga bisa lebih efektif dalam penggunannya</span></p><p><span style=\"color: #090a0a;\"><strong>Deskripsi</strong></span></p><p><span style=\"color: #6c7072;\">@ObservedObject memerlukan objek agar sesuai dengan protokol ObservableObject. Protokol ini adalah singkatan dari objek dengan penerbit yang memancarkan sebelum objek berubah dan memungkinkan Anda memberi tahu SwiftUI untuk memicu gambar ulang tampilan.</span></p><p><span style=\"color: #6c7072;\">@StateObject bekerja mirip dengan @ObservedObject. Kami dapat mengubah contoh kode kami sebelumnya untuk menggunakan pembungkus properti @StateObject sebagai gantinya</span></p>",
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">1. Kamu dapat menjelaskan secara to the point menggunakan waktu penggunaan antara @StateObject dan @ObservedObject</span></li><li><span style=\"color: #6c7072;\">2. Apabila kamu dapat menjelaskan lebih dari 1 hal, kamu dapat menjelaskan dengan menggunakan poin-poin agar recruiter mudah mencerna informasi yang kamu berikan</span></li></ul>",
             "assets": ["assets/img/iOS_Teknikal11.jpeg", "assets/img/dummy2.jpeg"],
-            "video_content": "assets/video/content/dummy.mp4",
+            "video_content": "assets/video/content/iOS_11_ObserveObject.mp4",
             "video_hr": "assets/video/iOS_11_Languages.mp4",
             "gif": "assets/gif/iOS_7-12_Amanda.gif"
         },
@@ -142,7 +142,7 @@
             "purpose": "<p><span style=\"color: #090a0a;\"><strong>Tujuan</strong></span></p><p><span style=\"color: #6c7072;\">Recruiter ingin mengetahui pemahaman kamu mengenai penggunaan structure dan class karena akan sering dipakai saat mengembangkan aplikasi dan akan berpengaruh kepada kinerja aplikasi</span></p><p><span style=\"color: #090a0a;\"><strong>Deskripsi</strong></span></p><p><span style=\"color: #6c7072;\">Structure adalah satu atau lebih variabel (dengan tipe yang dapat berbeda) yang dikelompokan di dalam sebuah nama.</span></p><p><span style=\"color: #6c7072;\">Class hampir serupa dengan structure, namun bedanya adalah class dapat memiliki fungsi di dalamnya. Jadi, class adalah beberapa variabel dan fungsi/method yang dikelompokkan di dalam sebuah nama. Variabel-variabel tersebut biasa disebut field dan biasanya merupakan atribut dari class tersebut. </span></p>",
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">1. Kamu dapat memberikan penjelasan singkat sebagai konteks mengenai structure dan class yang sudah kamu pahami</span></li><li><span style=\"color: #6c7072;\">2. Dalam menjelaskan perbedaan, kamu dapat menyatakan berapa jumlah poin yang ingin kamu sampaikan. (Contoh: Terdapat 3 perbedaan antara structure dan class)</span></li></ul>",
             "assets": ["assets/img/iOS_Teknikal12.jpeg", "assets/img/dummy2.jpeg"],
-            "video_content": "assets/video/content/dummy.mp4",
+            "video_content": "assets/video/content/iOS_12_Structure.mp4",
             "video_hr": "assets/video/iOS_12_DataStructure.mp4",
             "gif": "assets/gif/iOS_7-12_Amanda.gif"
         },
@@ -154,7 +154,7 @@
             "purpose": "<p><span style=\"color: #090a0a;\"><strong>Tujuan</strong></span></p><p><span style=\"color: #6c7072;\">Recruiter ingin mengetahui perbedaan extension dan protocol yang dapat berguna saat proses coding untuk efektivitas waktu</span></p><p><span style=\"color: #090a0a;\"><strong>Deskripsi</strong></span></p><p><span style=\"color: #6c7072;\">Protocol mendefinisikan gambaran metode, properti, dan persyaratan lain yang sesuai dengan tugas atau fungsionalitas tertentu. Protokol kemudian dapat diadopsi oleh kelas, struktur, atau enumerasi untuk menyediakan implementasi aktual dari persyaratan tersebut.</span></p><p><span style=\"color: #6c7072;\">Extension menambahkan fungsionalitas baru ke kelas, struktur, enumerasi, atau tipe protokol yang ada. Ini termasuk kemampuan untuk memperluas jenis yang Anda tidak memiliki akses ke kode sumber asli (dikenal sebagai pemodelan retroaktif).</span></p>",
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">1. Menjelaskan pengertian mengenai protocol dengan extension</span></li><li><span style=\"color: #6c7072;\">2. Kamu dapat menjelaskan perbedaannya serta penggunaannya dalam bentuk poin agar mudah dicerna oleh recruiter</span></li></ul>",
             "assets": ["assets/img/iOS_Teknikal13.jpeg", "assets/img/dummy2.jpeg"],
-            "video_content": "assets/video/content/dummy.mp4",
+            "video_content": "assets/video/content/iOS_13_Protocol.mp4",
             "video_hr": "assets/video/iOS_13_DataStructure.mp4",
             "gif": "assets/gif/iOS_13-17_Rahmat.gif"
         },
@@ -166,7 +166,7 @@
             "purpose": "<p><span style=\"color: #090a0a;\"><strong>Tujuan</strong></span></p><p><span style=\"color: #6c7072;\">Recruiter ingin mengetahui pemahamanmu mengenai value dan reference type karena akan berpengaruh ketika menggunakan object oriented programming atau framework yang lebih advance</span></p><p><span style=\"color: #090a0a;\"><strong>Deskripsi</strong></span></p><p><span style=\"color: #6c7072;\">Value type adalah tipe nilai jika menyimpan nilai data di dalam ruang memorinya sendiri. Artinya variabel tipe data ini langsung mengandung nilai.</span></p><p><span style=\"color: #6c7072;\">Reference type tidak menyimpan nilainya secara langsung. Sebaliknya, ia menyimpan alamat tempat nilai disimpan. Dengan kata lain, tipe referensi berisi penunjuk ke lokasi memori lain yang menyimpan data. </span></p>",
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">1. Menjelaskan pengertian mengenai value and reference type</span></li><li><span style=\"color: #6c7072;\">2. Kamu dapat menjelaskan perbedaannya serta penggunaannya dalam bentuk poin agar mudah dicerna oleh recruiter</span></li></ul>",
             "assets": ["assets/img/iOS_Teknikal14.jpeg", "assets/img/dummy2.jpeg"],
-            "video_content": "assets/video/content/dummy.mp4",
+            "video_content": "assets/video/content/iOS_14_ValueType.mp4",
             "video_hr": "assets/video/iOS_14_DataStructure.mp4",
             "gif": "assets/gif/iOS_13-17_Rahmat.gif"
         },
@@ -178,7 +178,7 @@
             "purpose": "<p><span style=\"color: #090a0a;\"><strong>Tujuan</strong></span></p><p><span style=\"color: #6c7072;\">Recruiter ingin mengetahui pemahaman mengenai algoritma secara fungsional. Tidak hanya definisi namun kegunaannya</span></p><p><span style=\"color: #090a0a;\"><strong>Deskripsi</strong></span></p><p><span style=\"color: #6c7072;\">Algoritma adalah prosedur komputasi yang terdefinisi dengan baik yang mengambil beberapa nilai atau kumpulan nilai, sebagai input dan menghasilkan sekumpulan nilai atau beberapa nilai, sebagai output.</span></p> ",
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">1. Kamu dapat memberi tahu pengertian algoritma untuk menyamakan persepsi dan konteks lalu dilanjut dengan kegunaannya dalam bentuk poin agar mudah disampaikan</span></li><li><span style=\"color: #6c7072;\">2. Kamu tidak perlu menghafal, namun bisa menyampaikan dengan bahasa mu sendiri</span></li></ul>",
             "assets": ["assets/img/iOS_Teknikal15.jpeg", "assets/img/dummy2.jpeg"],
-            "video_content": "assets/video/content/dummy.mp4",
+            "video_content": "assets/video/content/iOS_15_Algoritma.mp4",
             "video_hr": "assets/video/iOS_15_Algoritma.mp4",
             "gif": "assets/gif/iOS_13-17_Rahmat.gif"
         },
@@ -190,7 +190,7 @@
             "purpose": "<p><span style=\"color: #090a0a;\"><strong>Tujuan</strong></span></p><p><span style=\"color: #6c7072;\">Recruiter ingin mengetahui pertimbangan yang kamu gunakan untuk menggunakan algoritma tertentu</span></p><p><span style=\"color: #090a0a;\"><strong>Deskripsi</strong></span></p><p><span style=\"color: #6c7072;\">Setiap kali kita melakukan sebuah prosedur atau langkah-langkah kerja, maka artinya kita telah melakukan sebuah algoritma. Secara umum Algoritma dapat dikatakan sebagai sebuah langkah-langkah yang harus dilakukan untuk menghasilkan keluaran yang dicari.</span></p>",
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">1. Kamu dapat menjelaskan mengenai cara yang kamu gunakan untuk mempertimbangkan dalam analisis algoritma secara per poin agar lebih mudah diterima</span></li><li><span style=\"color: #6c7072;\">2. Menjelaskan pertimbangan yang dapat berdampak langsung terhadap efektivitas seperti waktu, dll. Karena dalam pekerjaan membutuhkan sistem yang cepat dan sebaik mungkin sehingga itu akan meningkatkan efektivitas proses yang ada.</span></li></ul>",
             "assets": ["assets/img/iOS_Teknikal16.jpeg", "assets/img/dummy2.jpeg"],
-            "video_content": "assets/video/content/dummy.mp4",
+            "video_content": "assets/video/content/iOS_16_AnalisisAlgoritma.mp4",
             "video_hr": "assets/video/iOS_16_Algoritma.mp4",
             "gif": "assets/gif/iOS_13-17_Rahmat.gif"
         },
@@ -202,7 +202,7 @@
             "purpose": "<p><span style=\"color: #090a0a;\"><strong>Tujuan</strong></span></p><p><span style=\"color: #6c7072;\">Recruiter ingin mengetahui pemahaman kamu mengenai stack dan queue terutama penggunaannya</span></p><p><span style=\"color: #090a0a;\"><strong>Deskripsi</strong></span></p><p><span style=\"color: #6c7072;\">Stack (tumpukan) sebenarnya secara mudah dapat diartikan sebagai list (urutan) dimana penambahan dan pengambilan elemen hanya dilakukan pada satu sisi yang disebut top (puncak) dari stack.</span></p><p><span style=\"color: #6c7072;\">Queue atau antrian sebenarnya juga merupakan suatu list. Salah satu sifat yang membedakan queue dengan stack adalah bahwa pada queue penambahan elemen dilakukan pada salah satu ujung (ujung depan) dan pengambilan dilakukan pada ujung yang lain (ujung belakang)</span></p>",
             "tips": "<p><span style=\"color: #090a0a;\"><strong>Tips dan Trik</strong></span></p><ul><li><span style=\"color: #6c7072;\">1. Kamu dapat memberikan definisi mengenai stack dan queue lebih dulu untuk memberikan pernyataan di awal dan menyamakan persepsi serta konteks</span></li><li><span style=\"color: #6c7072;\">2. Sampaikan dalam bentuk poin agar mudah ditangkap oleh recruiter</span></li></ul>",
             "assets": ["assets/img/iOS_Teknikal17.jpeg", "assets/img/dummy2.jpeg"],
-            "video_content": "assets/video/content/dummy.mp4",
+            "video_content": "assets/video/content/iOS_17_StackQueue.mp4",
             "video_hr": "assets/video/iOS_17_Algoritma.mp4",
             "gif": "assets/gif/iOS_13-17_Rahmat.gif"
         }
